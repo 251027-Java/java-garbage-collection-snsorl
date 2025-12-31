@@ -1,0 +1,31 @@
+[2025-12-30T23:04:10.709-0600][0.027s] CardTable entry size: 512
+[2025-12-30T23:04:10.709-0600][0.027s] Using G1
+[2025-12-30T23:04:10.710-0600][0.029s] Version: 25.0.1+8-LTS-27 (release)
+[2025-12-30T23:04:10.710-0600][0.029s] CPUs: 8 total, 8 available
+[2025-12-30T23:04:10.710-0600][0.029s] Memory: 12087M
+[2025-12-30T23:04:10.710-0600][0.029s] Large Page Support: Disabled
+[2025-12-30T23:04:10.710-0600][0.029s] NUMA Support: Disabled
+[2025-12-30T23:04:10.710-0600][0.029s] Compressed Oops: Enabled (32-bit)
+[2025-12-30T23:04:10.710-0600][0.029s] Heap Region Size: 1M
+[2025-12-30T23:04:10.710-0600][0.029s] Heap Min Capacity: 128M
+[2025-12-30T23:04:10.710-0600][0.029s] Heap Initial Capacity: 128M
+[2025-12-30T23:04:10.710-0600][0.029s] Heap Max Capacity: 256M
+[2025-12-30T23:04:10.712-0600][0.030s] Pre-touch: Disabled
+[2025-12-30T23:04:10.712-0600][0.030s] Parallel Workers: 8
+[2025-12-30T23:04:10.712-0600][0.030s] Concurrent Workers: 2
+[2025-12-30T23:04:10.712-0600][0.030s] Concurrent Refinement Workers: 8
+[2025-12-30T23:04:10.712-0600][0.030s] Periodic GC: Disabled
+[2025-12-30T23:04:10.722-0600][0.040s] CDS archive(s) mapped at: [0x0000000094000000-0x0000000094dd0000-0x0000000094dd0000), size 14483456, SharedBaseAddress: 0x0000000094000000, ArchiveRelocationMode: 1.
+[2025-12-30T23:04:10.722-0600][0.040s] Compressed class space mapped at: 0x0000000095000000-0x00000000d5000000, reserved size: 1073741824
+[2025-12-30T23:04:10.722-0600][0.040s] UseCompressedClassPointers 1, UseCompactObjectHeaders 0
+[2025-12-30T23:04:10.722-0600][0.040s] Narrow klass pointer bits 32, Max shift 3
+[2025-12-30T23:04:10.722-0600][0.040s] Narrow klass base: 0x0000000094000000, Narrow klass shift: 0
+[2025-12-30T23:04:10.722-0600][0.040s] Encoding Range: [0x0000000094000000 - 0x0000000194000000), (4294967296 bytes)
+[2025-12-30T23:04:10.722-0600][0.040s] Klass Range:    [0x0000000094010000 - 0x00000000d5000000), (1090453504 bytes)
+[2025-12-30T23:04:10.722-0600][0.040s] Klass ID Range:  [65536 - 1090519033) (1090453497)
+[2025-12-30T23:04:10.722-0600][0.040s] Protection zone: [0x0000000094000000 - 0x0000000094010000), (65536 bytes)
+[2025-12-30T23:04:10.765-0600][0.084s] Heap
+[2025-12-30T23:04:10.765-0600][0.084s]  garbage-first heap   total reserved 262144K, committed 133120K, used 2709K [0x00000000f0000000, 0x0000000100000000)
+[2025-12-30T23:04:10.765-0600][0.084s]   region size 1024K, 2 young (2048K), 0 survivors (0K)
+[2025-12-30T23:04:10.765-0600][0.084s]  Metaspace       used 383K, committed 576K, reserved 1114112K
+[2025-12-30T23:04:10.765-0600][0.084s]   class space    used 24K, committed 128K, reserved 1048576K
